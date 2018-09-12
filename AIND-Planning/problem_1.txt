@@ -1,0 +1,50 @@
+Solving Air Cargo Problem 1 using breadth_first_search...
+Expansions   Goal Tests   New Nodes
+    43          56         180    
+Plan length: 6  Time elapsed in seconds: 0.06358286799513735
+
+Solving Air Cargo Problem 1 using breadth_first_tree_search...
+Expansions   Goal Tests   New Nodes
+   1458        1459        5960   
+Plan length: 6  Time elapsed in seconds: 1.1036673719936516
+
+Solving Air Cargo Problem 1 using depth_first_graph_search...
+Expansions   Goal Tests   New Nodes
+    12          13          48    
+Plan length: 12  Time elapsed in seconds: 0.010403210995718837
+
+Solving Air Cargo Problem 1 using depth_limited_search...
+Expansions   Goal Tests   New Nodes
+   101         271         414    
+Plan length: 50  Time elapsed in seconds: 0.10483239800669253
+
+Solving Air Cargo Problem 1 using uniform_cost_search...
+Expansions   Goal Tests   New Nodes
+    55          57         224    
+Plan length: 6  Time elapsed in seconds: 0.04344938800204545
+
+Solving Air Cargo Problem 1 using recursive_best_first_search with h_1...
+Expansions   Goal Tests   New Nodes
+   4229        4230       17029   
+Plan length: 6  Time elapsed in seconds: 3.7568662390112877
+
+Solving Air Cargo Problem 1 using greedy_best_first_graph_search with h_1...
+Expansions   Goal Tests   New Nodes
+    7           9           28    
+Plan length: 6  Time elapsed in seconds: 0.00756955798715353
+
+Solving Air Cargo Problem 1 using astar_search with h_1...
+Expansions   Goal Tests   New Nodes
+    55          57         224    
+Plan length: 6  Time elapsed in seconds: 0.06516862899297848
+
+Solving Air Cargo Problem 1 using astar_search with h_ignore_preconditions...
+Expansions   Goal Tests   New Nodes
+    41          43         170    
+Plan length: 6  Time elapsed in seconds: 0.05067951398086734
+
+Solving Air Cargo Problem 1 using astar_search with h_pg_levelsum...
+Expansions   Goal Tests   New Nodes
+    11          13          50    
+Plan length: 6  Time elapsed in seconds: 1.5508219609910157
+
